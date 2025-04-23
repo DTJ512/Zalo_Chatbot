@@ -1,0 +1,65 @@
+{
+    
+    "username" : "Tên đăng nhập",
+    "password" : "Mật khẩu",
+    "login" : "Đăng nhập",
+    "forgotPassword" : "Quên mật khẩu?",
+    "infoIncorrect" : "Thông tin đăng nhập không chính xác",
+    
+    "home" : "Trang chủ",
+    "feature" : "Tính năng",
+    
+    "jdManagement" : "Quản lý JD",
+    "cvManagement" : "Quản lý CV",
+    "scriptManagement" : "Quản lý script",
+    "logout" : "Đăng xuất",
+
+    "addJD": "Thêm JD",
+    "editJD": "Sửa JD",
+    "deleteJD": "Xóa JD",
+    "viewJD": "Xem JD",
+    "searchJD": "Tìm kiếm JD",
+    "jobName": "Tên công việc",
+    "addFile": "Thêm file",
+
+    "jobTitle": "Vị trí tuyển dụng",
+    "jobDescription": "Mô tả công việc",
+
+    "jobExisted": "Vị trí đã tồn tại",
+    "jobState": "Trạng thái",
+    "jobTitleRequired": "Vị trí không được để trống",
+    "JobAddedSuccessfully": "Thêm vị trí thành công",
+    "JobUpdatedSuccessfully": "Cập nhật vị trí thành công",
+
+    "DoYouWantToRemoveJD": "Bạn có muốn xóa JD này không?",
+    "DoYouWantToRemoveJob": "Bạn có muốn xoá vị trí này không?",
+
+    "SortCV": "Sắp xếp CV",
+    "SortBy": "Sắp xếp theo",
+    "NameAscending": "Tên A-Z",
+    "NameDescending": "Tên Z-A",
+    "PercentageAscending": "Phần trăm tăng dần",
+    "PercentageDescending": "Phần trăm giảm dần",
+
+    "AppropriateLevel": "Mức độ phù hợp",
+    "from": "từ",
+    "to": "đến",
+    "Percentage": "Phần trăm",
+    "Reset": "Khôi phục",
+
+    "Total": "Tổng số",
+
+    "DoYouWantToRemoveCV": "Bạn có muốn xóa CV này không?",
+
+    "error": "Lỗi",
+    "info": "Thông báo",
+    "enter": "Nhập",
+
+    "JobOpening": "Đang tuyển",
+    "JobClosed": "Đã đóng",
+
+    "Developint": "Đang phát triển",
+
+    "OK": "OK",
+    "Cancel": "Hủy"
+}

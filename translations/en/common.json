@@ -1,0 +1,9 @@
+{
+    "username" : "Username",
+    "password" : "Password",
+    "login" : "Login",
+    "logout" : "Logout",
+    "forgotPassword" : "Forgot password?",
+
+    "infoIncorrect" : "Username or password is incorrect"
+}
